@@ -8,7 +8,7 @@ export const projects: Project[] = [
     description: "The public gateway to the UTECH ecosystem: platform directory, projects, and learning entry points.",
     status: "in-development",
     technologies: ["Next.js", "React", "TypeScript", "Vercel"],
-    repoUrl: "https://github.com/utech0201-debug/utech-official-website",
+    repoUrl: "https://github.com/utech0201-debug/utech-official-website1",
   },
 ];
 
